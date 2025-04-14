@@ -1,0 +1,6 @@
+TargetWord,Guess,ExpectedScore
+ABC,AAA,CII
+DEF,FED,PCP
+GGG,HHH,III
+XYZ,XYZ,CCC
+ILS,LIS,PPC 
